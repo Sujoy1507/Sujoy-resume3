@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    background-color: #211951;
+    border-radius: 10px;
+
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    list-style: none;
+    float: left;
+    padding: 10px 20px;
+}
+
+.navbar li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding-left: 220PX;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #eee;
+    position: relative;
+}
+
+
+summary {
+    display: list-item;
+    cursor: pointer;
+}
+
+
